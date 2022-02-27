@@ -1,0 +1,19 @@
+h1{
+    background-color: crimson;
+    font-family: sans-serif;
+    color: white;
+}
+.formka{
+    background-color:gray;
+}
+ul{
+ font-size: 25px;
+ font-family: sans-serif;
+ color: black;
+}
+ul input{
+    border: 30px;
+    
+  
+   
+}
